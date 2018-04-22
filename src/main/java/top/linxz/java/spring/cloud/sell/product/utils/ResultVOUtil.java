@@ -1,6 +1,6 @@
-package top.linxz.java.spring.cloud.sell.product.sell.utils;
+package top.linxz.java.spring.cloud.sell.product.utils;
 
-import top.linxz.java.spring.cloud.sell.product.sell.VO.ResultVO;
+import top.linxz.java.spring.cloud.sell.product.VO.ResultVO;
 
 public class ResultVOUtil {
     public static ResultVO success(Object object) {

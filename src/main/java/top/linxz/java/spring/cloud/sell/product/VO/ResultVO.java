@@ -1,4 +1,4 @@
-package top.linxz.java.spring.cloud.sell.product.sell.VO;
+package top.linxz.java.spring.cloud.sell.product.VO;
 
 import lombok.Data;
 

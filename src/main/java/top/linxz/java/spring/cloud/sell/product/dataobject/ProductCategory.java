@@ -1,4 +1,4 @@
-package top.linxz.java.spring.cloud.sell.product.sell.dataobject;
+package top.linxz.java.spring.cloud.sell.product.dataobject;
 
 import lombok.Data;
 

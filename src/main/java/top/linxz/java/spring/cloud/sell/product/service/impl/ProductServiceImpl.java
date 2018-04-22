@@ -1,11 +1,11 @@
-package top.linxz.java.spring.cloud.sell.product.sell.service.impl;
+package top.linxz.java.spring.cloud.sell.product.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import top.linxz.java.spring.cloud.sell.product.sell.dataobject.ProductInfo;
-import top.linxz.java.spring.cloud.sell.product.sell.enums.ProductStatusEnum;
-import top.linxz.java.spring.cloud.sell.product.sell.repository.ProductInfoRepository;
-import top.linxz.java.spring.cloud.sell.product.sell.service.ProductService;
+import top.linxz.java.spring.cloud.sell.product.dataobject.ProductInfo;
+import top.linxz.java.spring.cloud.sell.product.enums.ProductStatusEnum;
+import top.linxz.java.spring.cloud.sell.product.repository.ProductInfoRepository;
+import top.linxz.java.spring.cloud.sell.product.service.ProductService;
 
 import java.util.List;
 @Service

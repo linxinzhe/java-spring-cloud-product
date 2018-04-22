@@ -1,10 +1,10 @@
-package top.linxz.java.spring.cloud.sell.product.sell.service.impl;
+package top.linxz.java.spring.cloud.sell.product.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import top.linxz.java.spring.cloud.sell.product.sell.dataobject.ProductCategory;
-import top.linxz.java.spring.cloud.sell.product.sell.repository.ProductCategoryRepository;
-import top.linxz.java.spring.cloud.sell.product.sell.service.CategoryService;
+import top.linxz.java.spring.cloud.sell.product.dataobject.ProductCategory;
+import top.linxz.java.spring.cloud.sell.product.repository.ProductCategoryRepository;
+import top.linxz.java.spring.cloud.sell.product.service.CategoryService;
 
 import java.util.List;
 

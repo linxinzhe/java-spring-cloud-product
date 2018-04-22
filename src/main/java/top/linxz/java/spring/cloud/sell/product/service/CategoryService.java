@@ -1,6 +1,6 @@
-package top.linxz.java.spring.cloud.sell.product.sell.service;
+package top.linxz.java.spring.cloud.sell.product.service;
 
-import top.linxz.java.spring.cloud.sell.product.sell.dataobject.ProductCategory;
+import top.linxz.java.spring.cloud.sell.product.dataobject.ProductCategory;
 
 import java.util.List;
 

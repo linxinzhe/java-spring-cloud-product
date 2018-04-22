@@ -1,4 +1,4 @@
-package top.linxz.java.spring.cloud.sell.product.sell.enums;
+package top.linxz.java.spring.cloud.sell.product.enums;
 
 import lombok.Getter;
 

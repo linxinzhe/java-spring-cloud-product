@@ -1,18 +1,18 @@
-package top.linxz.java.spring.cloud.sell.product.sell.controller;
+package top.linxz.java.spring.cloud.sell.product.controller;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import top.linxz.java.spring.cloud.sell.product.sell.VO.ProductInfoVO;
-import top.linxz.java.spring.cloud.sell.product.sell.VO.ProductVO;
-import top.linxz.java.spring.cloud.sell.product.sell.VO.ResultVO;
-import top.linxz.java.spring.cloud.sell.product.sell.dataobject.ProductCategory;
-import top.linxz.java.spring.cloud.sell.product.sell.dataobject.ProductInfo;
-import top.linxz.java.spring.cloud.sell.product.sell.service.CategoryService;
-import top.linxz.java.spring.cloud.sell.product.sell.service.ProductService;
-import top.linxz.java.spring.cloud.sell.product.sell.utils.ResultVOUtil;
+import top.linxz.java.spring.cloud.sell.product.VO.ProductInfoVO;
+import top.linxz.java.spring.cloud.sell.product.VO.ProductVO;
+import top.linxz.java.spring.cloud.sell.product.VO.ResultVO;
+import top.linxz.java.spring.cloud.sell.product.dataobject.ProductCategory;
+import top.linxz.java.spring.cloud.sell.product.dataobject.ProductInfo;
+import top.linxz.java.spring.cloud.sell.product.service.CategoryService;
+import top.linxz.java.spring.cloud.sell.product.service.ProductService;
+import top.linxz.java.spring.cloud.sell.product.utils.ResultVOUtil;
 
 import java.util.ArrayList;
 import java.util.List;
